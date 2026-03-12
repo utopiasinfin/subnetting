@@ -1,11 +1,16 @@
-# subnetting
-## IPv4 Subnetting Helper (for LPIC / IHK / CompTIA students)
+IPv4 Subnetting Helper (for LPIC / IHK / CompTIA students)
 
-**Note (February 2025):** This is a small Python tool I built while studying for networking certifications in Germany.  
-I'm not a professional developer — just someone who needed a fast way to calculate subnets, magic numbers, interesting octets, and host ranges without always pulling out a calculator or Excel.
+Note (February 2026):
 
-It was created with a lot of trial-and-error + help from modern AI tools.  
-So please don't expect a super polished production-grade program — but it has helped me (and hopefully can help others too).
+This is a small Python tool I created while studying networking for certifications such as LPIC, IHK, and CompTIA.
+
+I'm not a professional Python developer. The idea for this tool came from my own need to better understand subnetting concepts such as subnet masks, interesting octets, magic numbers, and host ranges without always relying on a calculator or spreadsheet.
+
+The program was developed with the help of modern AI tools, combined with a lot of trial-and-error while learning. I used the process not only to build the tool, but also to deepen my understanding of networking concepts and basic programming logic.
+
+So this is not meant to be a polished production-grade application. It is mainly a learning project — and a practical helper that made studying subnetting much easier for me.
+
+If it helps other students who are learning networking, then the project has achieved its goal.
 
 ---
 
